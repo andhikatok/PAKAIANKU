@@ -7,8 +7,8 @@
         <h3 class="page-title">Suppliers</h3>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="#">Materials</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Daftar Materials</li>
+                <li class="breadcrumb-item"><a href="#">Suppliers</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Daftar Suppliers</li>
             </ol>
         </nav>
     </div>
